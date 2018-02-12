@@ -1,0 +1,10 @@
+git commands:
+
+add a file:
+	git add <file>
+	git add *
+
+create branch and switch to it:
+	git checkout -b <branch name>
+
+after which you might want to commit the file
