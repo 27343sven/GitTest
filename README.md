@@ -1,2 +1,2 @@
 # GitTest
-This project is just for testging how git works!
+This project is just for testing how git works!
